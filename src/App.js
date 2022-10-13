@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>AMAZON REACT</h1>
       <p> Primeiro parágrafo...</p>
+      <h2>AMAZON EM MANAUS</h2>
     </div>
   )
 }
