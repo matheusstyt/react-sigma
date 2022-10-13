@@ -8,5 +8,7 @@ function Teste3() {
     </div>
   )
 }
+<p> olá</p>
+<h1> tamo ae</h1>
 
 export default Teste3
