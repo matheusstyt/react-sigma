@@ -4,9 +4,9 @@ import './App.css'
 function Teste1() {
   return (
     <div className="App">
-        <h1>Componente do matheus </h1>
+        <h1>Componente do matheus/joao </h1>
         <input type="text" />
-        <p>testando os commits</p>
+        <p>rezando para o brendhon nao fazer besteira</p>
     </div>
   )
 }
